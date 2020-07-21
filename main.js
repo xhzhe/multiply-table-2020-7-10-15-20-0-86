@@ -35,4 +35,6 @@ function isValid(begin, end) {
 
 module.exports = {
     createMultiplyTable,
+    isValid,
+    getExpression
 };
